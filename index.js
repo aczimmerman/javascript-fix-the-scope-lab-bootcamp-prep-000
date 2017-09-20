@@ -5,13 +5,13 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  var animal = 'cat'
-  return animal
+  var animal = 'cat';
+  return animal;
 }
 
 function add2(n) {
-  const two = 2
-  return n + two
+  const two = 2;
+  return n + two;
 
   // Feel free to move things around!
 
